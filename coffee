@@ -9,3 +9,12 @@ mirror
 
 plant
      separate
+
+plant
+     awake
+
+plant
+     bean
+
+bean
+    answer
