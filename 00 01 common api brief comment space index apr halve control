@@ -9,8 +9,14 @@ mixture
 
 fact
 
-breief
+brief
       command
 
 site
     an
+
+expload
+       members
+
+ai
+   char
